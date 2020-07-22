@@ -6,6 +6,6 @@ import (
 )
 
 func main() {
-	s := "karthikeya"
+	s := "saimayukakkina"
 	fmt.Println(stringutils.Upper(s))
 }
