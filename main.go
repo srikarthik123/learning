@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"project1/stringutils"
+	"github.com/srikarthik123/learning/stringutils"
 )
 
 func main() {
